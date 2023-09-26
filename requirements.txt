@@ -2,9 +2,9 @@ dnslib == 0.9.7
 requests == 2.20.0
 Twisted == 14.0.2
 python_twitter == 3.1
-certifi
-urllib3
+certifi == 2018.10.15
+urllib3 == 1.24.1
 pika == 0.10.0
-pylint
-autopep8
+pylint == 1.9.3
+autopep8 == 1.4.4
 hpfeeds3 == 0.9.8
